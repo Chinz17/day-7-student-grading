@@ -1,3 +1,4 @@
+print("student grading program")
 def get_grade (marks):
     if marks >= 80:
         return "A"
